@@ -1,8 +1,11 @@
-MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask
+# MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask （IJCV）
 
-
-
-
+## 🚩 **TODO/Updates**
+- [x] Basic Code.
+- [ ] Demo
+- [ ] Integration with LLM Priors.
+- [ ] Support for Other Pre-trained Models
+---
 ## Setup
 
 ### Environment
@@ -14,8 +17,9 @@ conda activate maskdiffusion
 
 ```
 
-### Test with the mini-testset
+## Testing
 
+### Testing with the mini-testset
 ```
 python run_maskdiffusion.py
 ```
